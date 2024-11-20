@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mmmm\\source\\repos\\MovieAppGit\\MovieAppGit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1FC6F4-BF35-478D-A4A7-9D11B556DBC3}|MovieAppGit\\MovieAppGit.csproj|c:\\users\\mmmm\\source\\repos\\movieappgit\\movieappgit\\movieappgit\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB1FC6F4-BF35-478D-A4A7-9D11B556DBC3}|MovieAppGit\\MovieAppGit.csproj|solutionrelative:movieappgit\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1FC6F4-BF35-478D-A4A7-9D11B556DBC3}|MovieAppGit\\MovieAppGit.csproj|c:\\users\\mmmm\\source\\repos\\movieappgit\\movieappgit\\movieappgit\\data\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1FC6F4-BF35-478D-A4A7-9D11B556DBC3}|MovieAppGit\\MovieAppGit.csproj|solutionrelative:movieappgit\\data\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\mmmm\\source\\repos\\MovieAppGit\\MovieAppGit\\MovieAppGit\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "MovieAppGit\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\mmmm\\source\\repos\\MovieAppGit\\MovieAppGit\\MovieAppGit\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "MovieAppGit\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T23:30:34.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\source\\repos\\MovieAppGit\\MovieAppGit\\MovieAppGit\\Data\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieAppGit\\Data\\Movie.cs",
+              "ToolTip": "C:\\Users\\mmmm\\source\\repos\\MovieAppGit\\MovieAppGit\\MovieAppGit\\Data\\Movie.cs",
+              "RelativeToolTip": "MovieAppGit\\Data\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:20:51.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

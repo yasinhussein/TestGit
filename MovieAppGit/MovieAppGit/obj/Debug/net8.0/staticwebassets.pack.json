@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mmmm\\source\\repos\\MovieAppGit\\MovieAppGit\\MovieAppGit\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MovieAppGit.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MovieAppGit.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mmmm\\source\\repos\\MovieAppGit\\MovieAppGit\\MovieAppGit\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\mmmm\\source\\repos\\MovieAppGit\\MovieAppGit\\MovieAppGit\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mmmm\\source\\repos\\MovieAppGit\\MovieAppGit\\MovieAppGit\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mmmm\\source\\repos\\MovieAppGit\\MovieAppGit\\MovieAppGit\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MovieAppGit.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MovieAppGit.props",
+      "PackagePath": "build\\MovieAppGit.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MovieAppGit.props",
+      "PackagePath": "buildMultiTargeting\\MovieAppGit.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MovieAppGit.props",
+      "PackagePath": "buildTransitive\\MovieAppGit.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
